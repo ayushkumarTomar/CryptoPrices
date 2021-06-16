@@ -23,4 +23,8 @@ Please make sure to update tests as appropriate.
 [Feather Icons](https://feathericons.com/) - For icons
 
 #For any queries or suggestions you can mail me at - ayush@email.com
-## License
+## About Me
+Hello Iam a beginner web developer this is my fist website in solely [Javascript]("https://developer.mozilla.org/en-US/docs/Web/JavaScript") without any backend, I completed
+this today on 17 April 2020. 
+Previously I was a python backend developer worked on (Flask)["https://flask.palletsprojects.com/en/1.1.x/quickstart/"] but this was my first try in frontend.
+This website is made with the help of some tools and frameworks given above
