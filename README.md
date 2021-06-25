@@ -28,3 +28,5 @@ Hello Iam a beginner web developer this is my fist website in solely [Javascript
 this today on 17 April 2020. 
 Previously I was a python backend developer worked on [Flask](https://flask.palletsprojects.com/en/1.1.x/quickstart/) but this was my first try in frontend.
 This website is made with the help of some tools and frameworks given above
+
+If you want to check this code out it is hosted on [Github Pages](https://pages.github.com/) here [CryptoPrices](https://ayushkumartomar.github.io/CryptoPrices/)
