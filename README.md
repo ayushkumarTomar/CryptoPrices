@@ -13,7 +13,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
-## Api used
+## Tools used
 [Bootstrap](https://getbootstrap.com/) - For Css
 
 [Source Unsplash](https://source.unsplash.com/) - For Carousel images
