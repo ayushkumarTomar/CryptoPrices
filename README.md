@@ -13,7 +13,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
-## Api used
+## Tools used
 [Bootstrap](https://getbootstrap.com/) - For Css
 
 [Source Unsplash](https://source.unsplash.com/) - For Carousel images
@@ -26,7 +26,7 @@ Please make sure to update tests as appropriate.
 ## About Me
 Hello Iam a beginner web developer this is my fist website in solely [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) without any backend, I completed
 this today on 17 April 2020. 
-Previously I was a python backend developer worked on [Flask](https://flask.palletsprojects.com/en/1.1.x/quickstart/) but this was my first try in frontend.
+Previously I worked on [Flask](https://flask.palletsprojects.com/en/1.1.x/quickstart/) but this was my first try in frontend.
 This website is made with the help of some tools and frameworks given above
 
 If you want to check this code out it is hosted on [Github Pages](https://pages.github.com/) here [CryptoPrices](https://ayushkumartomar.github.io/CryptoPrices/)
